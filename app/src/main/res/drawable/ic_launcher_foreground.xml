@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered bold lightning bolt representing momentum & execution -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,20 L35,54 L52,56 L44,88 L72,48 L55,46 Z" />
+</vector>

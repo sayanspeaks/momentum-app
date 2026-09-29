@@ -1,0 +1,6 @@
+{
+  "name": "Momentum",
+  "description": "Your AI doesn't manage your to-do list. It manages your next move.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
